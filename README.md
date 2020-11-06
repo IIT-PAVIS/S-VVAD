@@ -80,7 +80,7 @@ The corresponding file is: ModifiedColumbia_splits.zip
 Muhammad Shahid,Cigdem Beyan and Vittorio Murino, IEEE Winter Conference on Applications of Computer Vision (WACV), 2021.
 ```
 @inproceedings{shahid2019SVVAD,
-  title={Visual Voice Activity Detection by Motion Segmentation},
+  title={S-VVAD: Visual Voice Activity Detection by Motion Segmentation},
   author={Shahid, Muhammad and Beyan, Cigdem and Murino, Vittorio},
   booktitle={2021 IEEE Winter Conference on Applications of Computer Vision (WACV)},
   pages={0--0},
