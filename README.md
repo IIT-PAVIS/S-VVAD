@@ -76,8 +76,8 @@ The corresponding file is: ModifiedColumbia_splits.zip
 
 ## Reference
 
-**S-VVAD: Visual Voice Activity Detection by Motion Segmentation**  
-Muhammad Shahid,Cigdem Beyan and Vittorio Murino, IEEE Winter Conference on Applications of Computer Vision (WACV), 2021.
+Muhammad Shahid, Cigdem Beyan and Vittorio Murino, "S-VVAD: Visual Voice Activity Detection by Motion Segmentation", 
+IEEE Winter Conference on Applications of Computer Vision (WACV), 2021.
 ```
 @inproceedings{shahid2019SVVAD,
   title={S-VVAD: Visual Voice Activity Detection by Motion Segmentation},
