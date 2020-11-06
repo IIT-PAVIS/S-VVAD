@@ -36,7 +36,9 @@ Containes some sample train and validation set for RealVAD dataset as explained 
 ``datageneratorRealVAD.py``: Image batch generator with segmentation mask and BB from each Image
 
 ``datageneratorTest.py``: Sequential image batch generator with only BB annoation
+
 ### FCN-Testing
+
 ``TestFCN_Main``: To Reload and test the trained FCN model on a test set and saving the generated masks
 ``datageneratorTest.py``: Test image batch geneartor 
 
@@ -65,12 +67,12 @@ Some pre-trained ResNet50 model for tensorflow can be downloaded from this link 
 ## Reference
 
 **S-VVAD: Visual Voice Activity Detection by Motion Segmentation**  
-Muhammad Shahid,Cigdem Beyan and Vittorio Murino,
+Muhammad Shahid,Cigdem Beyan and Vittorio Murino, IEEE Winter Conference on Applications of Computer Vision (WACV) 2021
 ```
 @inproceedings{shahid2019SVVAD,
   title={Visual Voice Activity Detection by Motion Segmentation},
   author={Shahid, Muhammad and Beyan, Cigdem and Murino, Vittorio},
-  booktitle={The IEEE Winter Conference on Applications of Computer Vision},,
+  booktitle={2021 IEEE Winter Conference on Applications of Computer Vision (WACV)},
   pages={0--0},
   year={2021}
 }
