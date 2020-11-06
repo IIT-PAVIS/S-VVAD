@@ -69,6 +69,10 @@ Pre-trained ResNet50 models for tensorflow can be downloaded from this link (htt
 
 5- Test model by using Model_Evaluation.py and project the bounding boxes found as speaking/not-speaking by segmentation
 
+## How it works
+
+As promised in the paper, we supply the group-based splits for Columbia datasets (so-called Modified Columbia dataset). 
+The corresponding file is: ModifiedColumbia_splits.zip
 
 ## Reference
 
