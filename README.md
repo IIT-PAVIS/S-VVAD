@@ -1,5 +1,5 @@
-# Tensorflow Code for the paper: 
-S-VVAD: Visual Voice Activity Detection by Motion Segmentation <br />
+# Tensorflow Code for the paper "S-VVAD: Visual Voice Activity Detection by Motion Segmentation"
+
 [Full Paper and Supplementary Material](https://openaccess.thecvf.com/content/WACV2021/html/Shahid_S-VVAD_Visual_Voice_Activity_Detection_by_Motion_Segmentation_WACV_2021_paper.html) <br />
 [Extended Video Presentation](https://cbeyan.github.io/) <br />
 
