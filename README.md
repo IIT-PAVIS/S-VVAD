@@ -1,5 +1,5 @@
 # Tensorflow Code for the paper: 
-*[S-VVAD: Visual Voice Activity Detection by Motion Segmentation](Link) -- Link to the Paper will be added, stay tuned
+*[S-VVAD: Visual Voice Activity Detection by Motion Segmentation](https://openaccess.thecvf.com/content/WACV2021/html/Shahid_S-VVAD_Visual_Voice_Activity_Detection_by_Motion_Segmentation_WACV_2021_paper.html)
 
 ## Overview
 ![BlockDiagram](https://github.com/muhammadshahidwandar/S-VVAD/blob/master/images/Fig_Main.jpg)
@@ -77,12 +77,13 @@ The corresponding file is: ModifiedColumbia_splits.zip
 ## Reference
 
 Muhammad Shahid, Cigdem Beyan and Vittorio Murino, "S-VVAD: Visual Voice Activity Detection by Motion Segmentation", 
-IEEE Winter Conference on Applications of Computer Vision (WACV), 2021.
+Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), pp. 2332-2341, 2021.
 ```
-@inproceedings{SVVAD2020,
-  title={S-VVAD: Visual Voice Activity Detection by Motion Segmentation},
-  author={Shahid, Muhammad and Beyan, Cigdem and Murino, Vittorio},
-  booktitle={2021 IEEE Winter Conference on Applications of Computer Vision (WACV)},
-  pages={0--0},
-  year={2021}
+@InProceedings{Shahid_2021_WACV,
+    author    = {Shahid, Muhammad and Beyan, Cigdem and Murino, Vittorio},
+    title     = {S-VVAD: Visual Voice Activity Detection by Motion Segmentation},
+    booktitle = {Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)},
+    month     = {January},
+    year      = {2021},
+    pages     = {2332-2341}
 }
